@@ -3,8 +3,7 @@ import React from "react";
 function Header() {
   return (
     <div>
-      Header component
-      <h1>Your Google Map Locator</h1>
+      <h1>Search for your favorite hotels in New York City!</h1>
     </div>
   );
 }
